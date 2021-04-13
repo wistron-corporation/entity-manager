@@ -73,6 +73,7 @@ configs = [
     '8X25 HSBP.json',
     'A2UL16RISER.json',
     'A2UX8X4RISER.json',
+    'ACBELL_RICA_PSU.json',
     'AHW1UM2RISER.json',
     'ASPOWER_U1A-D10550_PSU.json',
     'ASPOWER_U1A-D10800_PSU.json',
@@ -109,12 +110,14 @@ configs = [
     'PSSF222201A.json',
     'Rainier 2U Chassis.json',
     'Rainier 4U Chassis.json',
+    'Rainier 1S4U Chassis.json',
     'R1000 Chassis.json',
     'R2000 Chassis.json',
     'SAS Module.json',
     'SOLUM_PSSF162202_PSU.json',
     'STP Baseboard.json',
     'STP P4000 Chassis.json',
+    'Tyan_S7106_Baseboard.json',
     'WFT Baseboard.json',
 ]
 
